@@ -18,7 +18,7 @@
 }
 
 body{
-    background-image: url(/images/pattern-background-desktop.svg);
+    background-image: url(images/pattern-background-desktop.svg);
     background-size:contain;
     background-color:#7280a760;
     background-repeat: no-repeat;
